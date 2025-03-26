@@ -12,7 +12,7 @@ O importante é saber que ao final do semestre vocês serão capazes de criar os
     1. Se você estiver levando muito tempo pra fazer um exercício e isso estiver atrapalhando seu desempenho nas outras matérias, sugiro colocar um timer de 40 minutos e se não for possível resolver em 40 minutos, comentar seu código para que seja possível continuar no próximo dia. <br> <br>  
 
 
-1. Práticar sem entender também não é eficiente, sempre busque entender como funcionam as estruturas pra que a prática seja apenas um método de fixação.
+1. Praticar sem entender também não é eficiente, sempre busque entender como funcionam as estruturas pra que a prática seja apenas um método de fixação.
 
 1. Procure conversar com colegas e professores sobre o código de vocês, um exercício de AEDs-I constantemente terá mais formas de ser feito, descobrir como outras pessoas resolveram o mesmo problema que vocês pode aumentar o repertório e assim fazer com que consigam resolver mais problemas.
 
