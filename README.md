@@ -1,5 +1,4 @@
-# <div style="text-align: center;"> AEDs-I é Fácil! </div>
-
+<h1 align="center">AEDs-I é Fácil!</h1>
 ## Descrição
 
 Muitos alunos no início do curso tem dificuldades com a matéria de Algoritmos e Estruturas de Dados I, tendo isso em vista, decidi criar um material pra ajudar as pessoas a passarem por essa matéria com mais tranquilidade.
