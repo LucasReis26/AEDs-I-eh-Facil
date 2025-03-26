@@ -9,7 +9,7 @@ O importante é saber que ao final do semestre vocês serão capazes de criar os
 ## Dicas sobre a matéria
 
 1. AEDs-I **não é** uma matéria que se aprende sem praticar, portanto é recomendado que vocês pelo menos tentem fazer 1 exercício por dia, a prática sempre vai levar a perfeição.
-    1. Se você estiver levando muito tempo pra fazer um exercício e isso estiver atrapalhando seu desempenho nas outras matérias, sugiro colocar um timer de 40 minutos e se não for possível resolver em 40 minutos, comentar seu código para que seja possível continuar no próximo dia. <br> <br>  
+    1. Se você estiver levando muito tempo pra fazer um exercício e isso estiver atrapalhando seu desempenho nas outras matérias, sugiro colocar um timer de 40 minutos e se não for possível resolver em 40 minutos, comentar seu código para que seja possível continuar no próximo dia. <br>
 
 
 1. Praticar sem entender também não é eficiente, sempre busque entender como funcionam as estruturas pra que a prática seja apenas um método de fixação.
