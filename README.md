@@ -12,7 +12,7 @@ Muitos alunos no início do curso tem dificuldades com a matéria de Algoritmos 
 
 ### Tópicos
 
-1. [**O que é a Matéria de AEDs-I?**]()
+1. [**O que é a Matéria de AEDs-I?**](https://github.com/LucasReis26/AEDs-I-eh-Facil/tree/main/topicos/t01)
 
 
 
