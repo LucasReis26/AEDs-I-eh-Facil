@@ -1,4 +1,4 @@
-# <center> AEDs-I é Fácil! </center>
+# <div style="text-align: center;"> AEDs-I é Fácil! </div>
 
 ## Descrição
 
