@@ -18,6 +18,10 @@ O importante é saber que ao final do semestre vocês serão capazes de criar os
 
 1. Não se desespere se não estiver conseguindo, se você nunca encostou em programação antes da faculdade provavelmente sentirá dificuldades no início. Porém conforme você for errando e for aprendendo, os exercícios se tornarão mais fáceis e essa angústia de não entender ficará pra trás. **Não desista!**
 
+## AEDs-I é de fato fácil?
+
+Pode ser! Mas não necessariamente é, AEDs-I é a base de tudo o que vocês verão no curso, se olhar por esse lado essa matéria é uma das mais tranquilas, mas ainda assim, muitas pessoas chegam em AEDs-I com nenhum repertório de programação ou simplesmente tem uma dificuldade em lidar com a lógica computacional, no fim pra mim acaba sendo uma matéria mais trabalhosa do que de fato difícil.
+
 ## Conteúdo em vídeo: 
 
 [**AEDs-I é Fácil! | Introdução a AEDs-I**]()
